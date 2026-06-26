@@ -127,15 +127,16 @@ The code follows Python best practices:
 - Separation of concerns (input, calculation, output)
 - Beginner-friendly with explanatory comments
 
+## License
+
+This project is open source and available for learning and modification.
+
 ## 📸 Project Screenshots
 
 ### Calculator Output
 
-(Screenshots/calculator-output.png)
+![Calculator Output](screenshots/calculator-output.png)
 
-### Another Example
+### Calculator Example
 
-(Screenshots/calculator-example.png)
-## License
-
-This project is open source and available for learning and modification.
+![Calculator Example](screenshots/calculator-example.png)
