@@ -131,12 +131,11 @@ The code follows Python best practices:
 
 ### Calculator Output
 
-calculator-output.png
+(Screenshots/calculator-output.png)
 
 ### Another Example
 
-calculator-example.png
-
+(Screenshots/calculator-example.png)
 ## License
 
 This project is open source and available for learning and modification.
